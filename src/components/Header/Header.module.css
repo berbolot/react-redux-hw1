@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(9, 122, 228);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    margin-left: 7%;
+    
+}
+
+.nav{
+    display: flex;
+    margin-right: 5%;
+}
+
+h2{
+   padding-right: 50px;
+}
