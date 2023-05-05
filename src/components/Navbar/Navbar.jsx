@@ -42,6 +42,10 @@ const Navbar = () => {
        <div className={d.col}> 
         <div className={d.imgBox}><img className={d.img} src={el.sr} alt="" /><h3>lolololololo</h3></div>
        </div>  
+       <br />
+       <div className={d.col1}> 
+        <div className={d.imgBox}><img className={d.img} src={el.sr} alt="" /></div>
+       </div>  
           </Link>
       })
     }
